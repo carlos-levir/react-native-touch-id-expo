@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  Nessa aulas vamos aprender como implementar a impressão digital (touch id) e impressão facil (face id) em aplicativos React Native. Tanto em projetos que foram criados com a CLI, como em projetos Expo!
+  Nessa aulas vamos aprender como implementar a impressão digital (touch id) e reconhecimento facial (face id) em aplicativos React Native. Tanto em projetos que foram criados com a CLI, como em projetos Expo!
 </p>
 
 
